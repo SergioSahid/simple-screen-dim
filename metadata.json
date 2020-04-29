@@ -1,0 +1,14 @@
+{
+  "name": "Simple Screen Dim", 
+  "description": "Click the sun icon to dim the screen",
+  "shell-version": [
+    "3.12.2", 
+    "3.18", 
+    "3.18.5", 
+    "3.26.2",
+    "3.34"
+  ], 
+  "url": "https://github.com/SergioSahid/simple-screen-dim", 
+  "uuid": "simplescreendim@sergio.sahid.gmail.com", 
+  "version": 1.0
+}
